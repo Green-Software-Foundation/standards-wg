@@ -9,3 +9,6 @@
 
 ## [Meeting schedule](https://lists.greensoftware.io/g/standards/calendar)
 - [Meeting Link](https://zoom.us/j/97813672712?pwd=MkRpUzczUmQ5QVFQb3pheEpDa05tUT09) - ID - 978 1560 5940
+
+## [WG Members](https://github.com/Green-Software-Foundation/standards_wg/blob/main/WG_members.md)
+- List of collaborating members
