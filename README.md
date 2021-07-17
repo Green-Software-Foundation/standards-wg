@@ -9,7 +9,7 @@
 - V.Chair - Henry Richardson (Watttime)
 
 ## Projects
-- [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/swg_software_carbon_intensity/tree/dev)
+- [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/swg_software_carbon_intensity/tree/dev)
 
 ## Resources
 
