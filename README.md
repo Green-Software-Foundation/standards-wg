@@ -5,7 +5,7 @@
 - Ensure that the specifications can be implemented in an interoperable fashion on the computing platforms in widespread use in both developed and developing regions.
 
 ## Appointments 
-- Chair - Asim Hussain (Microsoft)
+- Chair - Abhishek Gupta (Microsoft)
 - V.Chair - Henry Richardson (Watttime)
 
 ## Projects
