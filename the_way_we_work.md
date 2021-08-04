@@ -165,9 +165,9 @@ As part of their responsibilities defined in [from WG Chairs Officers](#from-wg-
 
 ### Voting on Technical Issues
 
-Note: Supermajority Vote - 1 Organisation has a one vote
+Note: Supermajority Vote - 1 Member Organisation represents 1 Vote
 
-*	Before voting, a clear definition of the issuer SHALL be provided by the Chair.
+* Before voting, a clear definition of the issuer SHALL be provided by the Chair.
 * Members eligible to vote SHALL only be entitled to one vote each.
 * Each member MAY cast its vote as often as it wishes, and the last vote it casts counts.
 * Voting MAY be performed electronically.
