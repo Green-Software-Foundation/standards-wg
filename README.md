@@ -16,7 +16,7 @@
 * [Meeting Schedule](https://lists.greensoftware.io/g/standards/calendar) (Members Only)
 * [Shared Google Drive](https://drive.google.com/drive/u/3/folders/1DlakUzce0VDTlO4eTs_grqWgIYlW6I1k) (Members Only)
 * [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
-* [List of members](https://github.com/Green-Software-Foundation/standards_wg/blob/main/WG_members.md)
+* [WG operations and process guidelines](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
 
 ## Getting Started
 Welcome to the Standard Working Group.
