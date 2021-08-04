@@ -6,65 +6,15 @@ It provides a simple explanation of the GSF process as well as the tasks that yo
 If you want to gain a better understanding of the GSF process and tasks, then we invite you to review these documents:
 
 **The Way We Work**
- * Overall GSF process
-
-**CONTRIBUTING Guidelines**
-* How to collaborate in a particular repository or project
-
-**Release Planning and Editorial Calendar**
-* What will be released by when and how it will be promoted
-
-Here are the steps that you should follow up to start collaborating in GSF Working Groups.
-
-
-* How to Get Invited to GSF Working Groups
-* Where to Start
-* How to Collaborate
-* How to Develop Content
-
-## How to Get Invited
-* Your company must be a Green Software Foundation member in good standing
-* Send an email to company representative asking for an invitation, membership@greensoftware.io 
- 
-## Where to Start
-
-Find Your Way Around:
-* Membership Benefits
-* Services and Platforms
-* Organization Structure
-  * Working Groups and Committees, roles and scope
-  * Steering Committee
-  * Marketing & Communications Committee
-  * Working Groups:	
-    * Standards Working Group
-    > Add a reference to approved scope
-    * Innovation Working Group
-    > Add a reference to approved scope
-    * Trademark Working Group
-    > Add a reference to approved scope
-    * Community Working Group
-    > Add a reference to approved scope
-  * Organization Roles
-    > Provide a breif explanation and add a reference to organization roles in The Way We Work
-    * Members
-    * Editors
-    * Chairs
-    * Maintainers
+ * [Overall GSF process](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
  
 ## How to Collaborate
 
 ### Get Familiar with the Rules
 This guideine is a brief introduction or checklist to the GSF process. We encourage you to get faimiliar with the documents listed here:
- * The Way We Work
+ * [The Way We Work](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
  * CONTRIBUTING Guidelines
  * Release Planning & Editorial Calendar
-
-### Attending Working Group Meeting(s)
-Once you decide which group you will follow, please make sure that you download its meetings Calendar:
- * Standards WG Calendar
- * Innovation WG Calendar
- * Trademark WG Calendar
- * Community WG Calendar
 
 ### Meetings Check List
  * Check the Agenda content before joining the meeting
