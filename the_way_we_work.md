@@ -564,5 +564,3 @@ THE OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 * [Creation Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 * [Managing Project Boards](https://help.github.com/en/github/managing-your-work-on-github/managing-project-boards)
 
-
-![image](https://user-images.githubusercontent.com/8318213/122929944-697db080-d363-11eb-9615-e5ff5898741d.png)
