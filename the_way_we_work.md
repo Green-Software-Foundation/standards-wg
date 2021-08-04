@@ -1,5 +1,5 @@
 ## Scope
-The Scope of this Specification defines the operations and processes of the Green Software Foundation (GSF).
+The Scope of this Specification defines the operations and processes of the Green Software Foundation, Standards Working Group.
 ## Terminology and Conventions
 
 ### Conventions
@@ -14,7 +14,6 @@ Kindly consult [GSF Dictionary](https://github.com/Green-Software-Foundation/Dic
 Note:
 ```
 Project Charter - 2. Membership Levels
-
 2.1.	Steering Member.  
 Steering Members may participate in each Working Group and, unless waived per the Membership Agreement, the Steering Committee.
 2.2.	General.  
@@ -96,7 +95,6 @@ The Project may have multiple Working Groups, and each Working Group will operat
 Note:
 ```
 Working Group Charter - 3. Working Group Decision Making
-
 3.1. Consensus/Voting/Approval.
 The Working Group will endeavor to make all decisions by consensus.  
 Where the Working Group cannot reach consensus with respect to a particular decision, the Working Group will make that decision by a Supermajority Vote of the Steering Members and General Members in this Working Group. 
@@ -233,7 +231,6 @@ Appendix A - Traditional Mode Governance - 4. Deliverable Development Process
 4.4. Final Approval. Upon a Draft Deliverable reaching Working Group Approved status, the Project Chair or his/her designee will present that Working Group Approved Draft Deliverable to all Steering Committee for Approval. Upon Approval by the Steering Committee, that Draft Deliverable will be designated an "Approved Deliverable."
 4.5. Publication and Submission. Upon the designation of a Draft Deliverable as an Approved Deliverable, the Project Chair will publish the Approved Deliverable in a manner agreed upon by the Working Group Participants (i.e., Project Participant only location, publicly available location, Project maintained website, Project member website, etc.). The publication of an Approved Deliverable in a publicly accessible manner must include the terms under which the Approved Deliverable and/or source code is being made available under, as outlined in the applicable Working Group Charter.
 4.6. Submissions to Standards Bodies. No Draft Deliverable or Approved Deliverable may be submitted to another organization without Approval by the Steering Committee. Upon Approval by the Steering Committee, the Project Chair will coordinate the submission of the applicable Draft Deliverable or Approved Deliverable to another standards development organization with Joint Development Foundation Projects, LLC. Working Group Participants that developed that Draft Deliverable or Approved Deliverable agree to grant the copyright rights necessary to make those submissions.
-
 ```
 
 In this section, the diagram below depicts the development phases of technical documents.
