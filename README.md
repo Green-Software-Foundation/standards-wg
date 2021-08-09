@@ -37,5 +37,19 @@ Standard WG projects are licensed under the MIT License - see the [LICENSE.md](l
 ## Patent
 Standard WG projects operate under the W3C Patent Mode.
 
+## Collaborating With the WG
+
+1. Create a [new Issue](https://github.com/Green-Software-Foundation/standards_wg/issues/new)
+2. Discuss Issue with WG --> Create PR if required
+3. PR to be submitted against the **DEV feature branch**
+4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
+ 
+<figure>
+	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
+	<figcaption></figcaption>
+</figure>
+
+5. See [The Way we Work](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md) for futher details.
+
 ## Help
 helpdesk@greensoftware.io
