@@ -182,7 +182,7 @@ Note: Supermajority Vote - 1 Member Organisation represents 1 Vote
 
 > Note: electronic votes require no advance notice but must be made pursuant to a clear and unambiguous ballot with only “yes” and “no” options, and the voting must remain open for no less than 7 days.  These notification requirements with respect to the Project may be overridden upon unanimous consent of all Steering Members and General Members that have attended and participated in at least 50% of the last 4 meetings of the Project.
 
-## GSF Approval Process
+## Standards Working Group Approval Process
 <figure>
 	<img src="images/R_A_1.svg" alt="Review & Approval">
 	<figcaption>Review & Approval</figcaption>
@@ -213,7 +213,7 @@ The Review & Approval process implies that all the contributions need to be acce
     * If a sustained objection is received, the contribution cannot be merged, even if 3 or more contributors agreed with the contribution. 
     * If during the review period a contribution receives a comment, it is up to the Group or Maintainer to accept the comment or not. In any case, to merge the contribution, at least 3 reviewers MUST indicate that they agree with the contribution.
 
-## GSF Work Package
+## Standards Working Group Work Package
 ### Work Package - Life-Cycle
 
 <figure>
@@ -324,8 +324,8 @@ In this section, the diagram below depicts the development phases of technical d
 * The WG SHOULD define a placeholder for each Epic with few lines of description
 * The Epics can be broken down into user stories and tasks which are not defined in detail at the creation of the Work Package
 
-## GSF Branch Strategy
-### GSF Trunk-Based Development
+## Standards Workingl Group Branch Strategy
+### Standards Working Group Trunk-Based Development
 * Apply changes to `main` branch
 * Small, simple changes
   * Fewer merge conflicts
@@ -339,7 +339,7 @@ In this section, the diagram below depicts the development phases of technical d
 	<figcaption>GSF Release Flow Branching Structure</figcaption>
 </figure>
 
-#### GSF GitHub Workflow
+#### Standandards Working Group GitHub Workflow
 <table>
   <caption>GitHub Workflow</caption>
   <thead>
