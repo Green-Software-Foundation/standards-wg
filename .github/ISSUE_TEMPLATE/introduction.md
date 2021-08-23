@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Hello All [Name]
+# Hello All
 
 - A little bit about yourself
 
