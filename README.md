@@ -1,22 +1,21 @@
 # GSF Standards WG
 
 ## Scope
-- Develop a series of baseline specifications for Green Software.
-- Ensure that the specifications can be implemented in an interoperable fashion on the computing platforms in widespread use in both developed and developing regions.
+- Engaging with external bodies and campaigns, commenting on existing or proposed policy related to green software as well as creating our own policy proposals.
+- Managing projects related to the green certification of products and services.
 
 ## Appointments 
-- Chair - Abhishek Gupta (Microsoft)
-- V.Chair - Henry Richardson (Watttime)
+- Chair - Chris Adams (Green Web Foundation)
+- Chair - Elise Zelechowski (Thoughtworks)
 
 ## Projects
-- [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/swg_software_carbon_intensity/tree/dev)
 
 ## Resources
 
 * [Add me to meeting - Members Only](https://greensoftware.foundation/onboarding/) (Work Email required)
-* [Shared Google Drive](https://drive.google.com/drive/u/3/folders/1DlakUzce0VDTlO4eTs_grqWgIYlW6I1k) (Members Only)
-* [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024C0GB3LP) (Members Only)
-* [WG operations and process guidelines](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
+* [Shared Google Drive](https://drive.google.com/drive/folders/1wLIH7SQbSQbHcD1VnO_hio-7xHZ40s0j?usp=sharing) (Members Only)
+* [Slack Channel](https://greensoftwarefdn.slack.com/archives/C038PG8GSF5) (Members Only)
+* [WG operations and process guidelines](https://docs.google.com/document/d/1dE-cz7vlZwrOG9Fnw5-43VSLhoHu7qZaoHtsurabSkI/edit)
 
 ## Getting Started
 Welcome to the Standard Working Group.
@@ -49,7 +48,9 @@ Standard WG projects operate under the W3C Patent Mode.
 	<figcaption></figcaption>
 </figure>
 
-5. See [The Way we Work](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md) for futher details.
+## Copyright
+Trademark WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Help
-helpdesk@greensoftware.io
+https://greensoftware.foundation/helpdesk
+
