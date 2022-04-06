@@ -18,14 +18,11 @@
 * [WG operations and process guidelines](https://docs.google.com/document/d/1dE-cz7vlZwrOG9Fnw5-43VSLhoHu7qZaoHtsurabSkI/edit)
 
 ## Getting Started
-Welcome to the Standard Working Group.
+Welcome to the Policy Working Group.
 
 This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
 
-- Make sure you have joined the GSF slack and have introduced yourself in the standards slack channel.
-- We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
-- Familiarize yourself with our scope above and take a look at our current projects in flight, both links are above.
-- If you are having any problems with access please reach out to helpdesk@greensoftware.io.
+- Make sure you have joined the GSF slack and have introduced yourself in the #wg-policy slack channel.
 
 ## Copyright
 Standard WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
