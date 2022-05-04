@@ -8,6 +8,9 @@
 - Chair - Abhishek Gupta (Microsoft)
 - V.Chair - Henry Richardson (Watttime)
 
+## GitHub Training 
+- [Getting started with GitHub](https://green-software-foundation.github.io/github-training/)
+
 ## Projects
 - [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/swg_software_carbon_intensity/tree/dev)
 
