@@ -7,7 +7,7 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const config = {
   title: "Standards Working Group",
   tagline: "Develop a series of baseline specifications for Green Software",
-  url: "https://standards-wg.greensoftware.foundation/",
+  url: "https://standards.greensoftware.foundation/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -80,7 +80,7 @@ const config = {
               },
               {
                 label: "Website",
-                href: "https://standards_wg.greensoftware.foundation",
+                href: "https://standards.greensoftware.foundation",
               },
             ],
           },
