@@ -5,8 +5,9 @@
 - Ensure that the specifications can be implemented in an interoperable fashion on the computing platforms in widespread use in both developed and developing regions.
 
 ## Appointments 
-- Chair - Abhishek Gupta (Microsoft)
-- V.Chair - Henry Richardson (Watttime)
+Chair: Abhishek Gupta    | BCG <br>
+Chair: Henry Richardson  | WattTime<br>
+Chair: Navveen Balani    | Accenture<br>
 
 ## GitHub Training 
 - [Getting started with GitHub](https://green-software-foundation.github.io/github-training/)
