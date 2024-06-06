@@ -2,7 +2,7 @@ name:  Action Item
 description: Action Item submission
 title: "[AI]"
 labels: ["Action Item"]
-projects: ["SCER"]
+projects: ["sci"]
 assignees: 
   - atg-abhishek
   - Henry-WattTime
