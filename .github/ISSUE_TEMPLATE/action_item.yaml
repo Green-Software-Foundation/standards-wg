@@ -1,0 +1,31 @@
+name:  Action Item
+description: Action Item submission
+title: "[AI]"
+labels: ["Action Item"]
+projects: ["SCER"]
+assignees: 
+  - atg-abhishek
+  - Henry-WattTime
+  - navveenb
+
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Outline Action Item Details
+      description: Outline Action Item Details
+      placeholder: Tell us what you see
+      value: "Add details"
+    validations:
+      required: true
+  - type: dropdown
+    id: action-item
+    attributes:
+      label: Issue dependency with other WGs
+      multiple: true
+      options:
+        - No Dependency
+        - Policy WG
+        - Community WG
+        - OS WG
+ 
