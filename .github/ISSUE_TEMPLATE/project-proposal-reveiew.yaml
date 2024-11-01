@@ -1,7 +1,7 @@
 name:  Project Proposal Approval
-description: Action Item submission
-title: "[AI]"
-labels: ["Action Item"]
+description: Project Proposal Approval
+title: "[Project-Approval]"
+labels: ["Project-Approval"]
 projects: ["sci"]
 assignees: 
   - Henry-WattTime
