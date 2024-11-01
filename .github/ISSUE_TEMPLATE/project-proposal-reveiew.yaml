@@ -1,0 +1,29 @@
+name:  Action Item
+description: Action Item submission
+title: "[AI]"
+labels: ["Action Item"]
+projects: ["sci"]
+assignees: 
+  - Henry-WattTime
+  - navveenb
+
+body:
+  - type: textarea
+    id: project-review
+    attributes:
+      label: Project Review Comments
+      description: Details
+      placeholder: What needs to be done
+      value: "Add details"
+    validations:
+      required: true
+  - type: dropdown
+    id: action-item
+    attributes:
+      label: Approve Project
+      multiple: true
+      options:
+        - Approve
+        - Object
+        - Abstain
+ 
