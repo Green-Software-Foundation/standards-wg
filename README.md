@@ -5,7 +5,6 @@
 - Ensure that the specifications can be implemented in an interoperable fashion on the computing platforms in widespread use in both developed and developing regions.
 
 ## Appointments 
-Chair: Abhishek Gupta    | BCG <br>
 Chair: Henry Richardson  | WattTime<br>
 Chair: Navveen Balani    | Accenture<br>
 
