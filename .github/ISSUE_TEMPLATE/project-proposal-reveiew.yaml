@@ -1,7 +1,7 @@
 name:  Project Proposal Approval
 description: Project Proposal Approval
 title: "[Project-Approval]"
-labels: ["Project-Approval"]
+labels: ["project-approval"]
 projects: ["sci"]
 assignees: 
   - Henry-WattTime
@@ -14,7 +14,7 @@ body:
       label: Project Review Comments
       description: Details
       placeholder: What needs to be done
-      value: "1. Add a link to project Proposal\n\n2. Review Start Date:\n\n3. Review Closing Date:\n\n4. All comments will be submitted into this issue and indicate if you Agree or Object to this project."
+      value: "Add a link to project Proposal\n\nReview Start Date:\n\nReview Closing Date:\n\nAll comments will be submitted on this issue, and indicate if you agree or object to this project."
     validations:
       required: true
   - type: dropdown
