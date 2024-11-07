@@ -14,7 +14,7 @@ body:
       label: Project Review Comments
       description: Details
       placeholder: What needs to be done
-      value: "Add a link to project Proposal\n\n Review Start Date:\n\n Review Closing Date:"
+      value: "Add a link to project Proposal\n\n Review Start Date:\n\n Review Closing Date:\n\n All comments are to be submitted into this issue and indicate if you Agree or Object to this project."
     validations:
       required: true
   - type: dropdown
