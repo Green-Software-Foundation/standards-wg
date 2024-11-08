@@ -1,0 +1,22 @@
+---
+name: Consistency and IPR Review (Add project title)
+description: Enter the Issue title.
+title: '[Consistency & IPR Review]: '
+labels: [Consistency & IPR Review]
+projects: ["Add project"]
+assignees:
+- Add Project lead details
+body:
+  - type: textarea
+    id: Consistency-and-IPR-Review
+    attributes:
+      label: Company Submission
+      description: Consistency and IPR Review
+      placeholder: Consistency and IPR Review
+      value: "Add details"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Add details"
+
