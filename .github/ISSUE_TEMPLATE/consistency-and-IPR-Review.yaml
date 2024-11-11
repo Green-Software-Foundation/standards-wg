@@ -6,7 +6,7 @@ labels: [Consistency & IPR Review]
 projects: ["Add project"]
 assignees:
 - Add Project lead details
- body:
+body:
   - type: textarea
     id: project-review
     attributes:
