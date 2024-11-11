@@ -13,7 +13,7 @@ body:
       label: Consistency and IPR Review
       description: Consistency and IPR Review
       placeholder: Consistency and IPR Review
-      value: "1. Add a link to project Proposal\n\n2. Review Start Date:\n\n3. Review Closing Date:\n\n4. All comments will be submitted on this issue and indicate if you agree or object to this project.**"
+      value: "1. Document to be reviewed [Add a link to project Proposal]\n\n2. Review Start Date:(dd/mm)\n\n3. Review Closing Date:(dd/mm)\n\n4. All comments and observations are to be submitted on this issue\n\n5. Review Closing Date:(dd/mm)\n\n4. If you object to this project's Approval, please add 'Objection' as a comment. All objections will be submitted to the SWG for review**"
     validations:
       required: true
   - type: dropdown
