@@ -6,17 +6,23 @@ labels: [Consistency & IPR Review]
 projects: ["Add project"]
 assignees:
 - Add Project lead details
-body:
+ body:
   - type: textarea
-    id: Consistency-and-IPR-Review
+    id: project-review
     attributes:
-      label: Company Submission
+      label: Consistency and IPR Review
       description: Consistency and IPR Review
       placeholder: Consistency and IPR Review
-      value: "Add details"
+      value: "1. Add a link to project Proposal\n\n2. Review Start Date:\n\n3. Review Closing Date:\n\n4. All comments will be submitted on this issue and indicate if you agree or object to this project.**"
     validations:
       required: true
-  - type: markdown
+  - type: dropdown
+    id: action-item
     attributes:
-      value: "Add details"
+      label: Approve Project
+      multiple: true
+      options:
+        - Approve
+        - Object
+        - Abstain
 
